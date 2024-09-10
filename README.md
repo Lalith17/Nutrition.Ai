@@ -1,8 +1,8 @@
-# Nutrition App Using Gemini Pro Vision
+# Nutrition.Ai
 
 ## Project Overview
 
-The Nutrition App Using Gemini Pro Vision aims to revolutionize dietary and nutritional guidance through advanced AI techniques. Traditional dietary advice often lacks personalization, leading to suboptimal outcomes for users. This project addresses these shortcomings by offering tailored recommendations based on individual data and goals.
+The Nutrition.Ai Using Gemini Pro Vision aims to revolutionize dietary and nutritional guidance through advanced AI techniques. Traditional dietary advice often lacks personalization, leading to suboptimal outcomes for users. This project addresses these shortcomings by offering tailored recommendations based on individual data and goals.
 
 ## Key Features
 
